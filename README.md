@@ -24,3 +24,14 @@ The agent is powered by a structured **system prompt** (PRD‑style) and integra
 - 💰 **Expense Tracking**: Add expenses and calculate budgets in Google Sheets.
 - 🌐 **Information Lookup**: Use web search when internal knowledge is insufficient.
 
+## Setup Instructions
+### Prerequisites
+- Python 3.14+
+- n8n Cloud or local instance
+- Google API credentials
+
+### Install dependencies
+```bash
+pip install streamlit requests
+
+
