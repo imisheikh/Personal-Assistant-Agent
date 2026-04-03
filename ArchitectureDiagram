@@ -1,1 +1,0 @@
-User → Streamlit UI (App.py) → n8n Webhook → Tools (Calendar, Gmail, Docs, Tasks, Sheets)
